@@ -1,4 +1,4 @@
-
+#HOLA Jamir
 import sensor, image, time, math, cpufreq, pyb
 from pyb import LED
 
